@@ -1,0 +1,62 @@
+
+
+.all {
+    display: flex;
+  
+  }
+  
+  .fati {
+    margin-left: 75px;
+  }
+  
+  .papa {
+    margin-left: 30px;
+  }
+  
+  .trait2 {
+  
+    background-color: rgb(162, 201, 9);
+    width: 120px;
+    height: 3px;
+  }
+  
+  .mati {
+    margin-left: 140px;
+  }
+  
+  .papy {
+    margin-left: 30px;
+  }
+  
+  .trait3 {
+  
+    background-color: rgb(53, 224, 15);
+    width: 120px;
+    height: 3px;
+  }
+  
+  .kati {
+    margin-left: 140px;
+  }
+  
+  .pypa {
+    margin-left: 30px;
+  }
+  
+  .trait4 {
+  
+    background-color: rgb(106, 138, 243);
+    width: 120px;
+    height: 3px;
+  }
+
+
+
+
+  .navbar {
+    
+    
+    
+    top: 0;
+    width: 100%;
+}
